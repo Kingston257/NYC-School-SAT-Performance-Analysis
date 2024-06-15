@@ -8,9 +8,21 @@ Every year, American high school students take SATs, which are standardized test
 
 Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, government, and even parents considering which school their children should attend. 
 
-You have been provided with a dataset called `schools.csv`, which is previewed below.
+## The Problem
+The goal is to answer three key questions about New York City (NYC) public school SAT performance: 
+- Which schools have the best math scores?
+- Who are the top 10 performing schools, wrt total SAT scores?
+- Which NYC borough has the largest standard deviation in SAT performance?
 
-You have been tasked with answering three key questions about New York City (NYC) public school SAT performance.
+## The Analytical Activities
+Exploratory Data Analysis:
+- Sorting and subsetting of DataFrame
+- Visualization
+- Summary statistics
+
+## The Dataset
+This project comes with a publicly available dataset: [`schools.csv`](https://github.com/Kingston257/NYC-School-SAT-Performance-Analysis-Project-Summary/blob/main/schools.csv)
 
 
-Analyzing the performance of schools is important for a variety of stakeholders.  This project came with a publicly available dataset called 'schools.csv'.  The goal is to answer three key questions about New York City (NYC) public school SAT performance: check out the repo to find out more. 
+
+  
