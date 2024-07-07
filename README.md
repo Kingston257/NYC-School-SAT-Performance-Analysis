@@ -19,7 +19,7 @@ The goal is to answer three key questions about New York City (NYC) public schoo
 - Who are the top 10 performing schools, wrt total SAT scores?
 - Which NYC borough has the largest standard deviation in SAT performance?
 
-## The Activity
+## Project Activity
 Exploratory Data Analysis: [View Code](notebook.ipynb)
 - Sorting and subsetting of DataFrame
 - Visualization
